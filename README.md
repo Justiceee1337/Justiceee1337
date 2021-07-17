@@ -10,3 +10,5 @@
 <h1>My Stats</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=Justiceee1337&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="175px" alt="stats" />
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Justiceee1337&show_icons=true&theme=dark&locale=en&layout=compact" alt="langs"/></p>
